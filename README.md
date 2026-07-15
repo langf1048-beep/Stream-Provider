@@ -33,3 +33,7 @@ Holds the low-level, headless structural network configurations utilized for med
 
 ## 🛠️ Usage Target
 This structural arrangement is optimized for fetching with your own streaming app with your creativity.
+
+## ⬇️ Update
+We have decided to public the direct source soon...
+Stay tuned.
